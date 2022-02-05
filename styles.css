@@ -1,0 +1,87 @@
+.ID{
+  height: 150px;
+  width: 150px;
+}
+header{
+  background-color: #AEFEFF;
+}
+.top{
+  position:absolute;
+  left: 900px;
+  font-size: 20px;
+  top: 20px;
+}
+.upper_box{
+  background-color: #AEFEFF;
+  height: 600px;
+  width: 100%;
+  margin-top: 0px;
+}
+body{
+  background-color: #DBF6E9;
+  margin: 0px;
+  text-align: center;
+}
+.skill-row{
+  width: 50%;
+  margin: auto;
+  line-height: 10px;
+}
+h1{
+  margin-top: 0;
+  position: relative;
+  top: 150px;
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Merriweather', serif;
+}
+.middle_box{
+  display: block;
+}
+.last_box{
+  display: block;
+}
+.up{
+  display: inherit;
+  font-family: 'Merriweather', serif;
+  padding-top: 150px;
+}
+p{
+  display: inline;
+  font-family: 'Merriweather', serif;
+}
+.middle{
+  display: block;
+}
+.mountain{
+  height: 600px;
+  width: 700px;
+  display: inline;
+  position: relative;
+  bottom: 125px;
+}
+.cloud{
+  height: 100px;
+  width: 200px;
+  display: inline-block;
+  position: absolute;
+  top:200px;
+  left: 700px;
+}
+.cloud-bottom{
+  height: 100px;
+  width: 200px;
+  display: inline;
+  position: absolute;
+  top: 300px;
+  left:300px;
+}
+.HTML-logo{
+  height: 100px;
+  width: 300px;
+}
